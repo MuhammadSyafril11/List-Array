@@ -1,5 +1,7 @@
 '''
-Fidelis Lamere_2E
+Nama : Muhammad Syafril
+NIM : 20083000091
+Kelas : 2E
 '''
 import os
 clear = lambda : os.system('cls')
